@@ -138,5 +138,20 @@
   "artist": "Tamorlan",
   "license": "CC BY 3.0",
   "page": "https://commons.wikimedia.org/wiki/File%3AYute_-_Sacos.jpg"
+ },
+ "products-coir-twine": {
+  "artist": "TheOilLamp",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3AManufaturing_Coir_Twine.jpg"
+ },
+ "products-jute-burlap": {
+  "artist": "MuslimDon",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3ARolled_burlap_sacks_and_jute_ropes.jpg"
+ },
+ "products-coir-basket": {
+  "artist": "Shijan Kaakkara",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File%3ACoir_Basket_for_Garden_Plants_01.jpg"
  }
 }
