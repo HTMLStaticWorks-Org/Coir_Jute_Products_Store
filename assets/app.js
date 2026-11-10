@@ -11,4 +11,15 @@
     });
     toggleBtt();
   }
+  const faqs = document.querySelectorAll('details.faq-item');
+  faqs.forEach(item => {
+    item.removeAttribute('open');
+    item.addEventListener('toggle', () => {
+      if (item.open) {
+        faqs.forEach(other => {
+          if (other !== item && other.open) other.removeAttribute('open');
+        });
+      }
+    });
+  });
 })();
